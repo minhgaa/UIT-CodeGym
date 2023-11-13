@@ -6,9 +6,9 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/minhgaa/Downloads/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/actool/bundle/Assets.car</string>
-			<string>/Users/minhgaa/Downloads/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/actool/bundle/appicon.icns</string>
-			<string>/Users/minhgaa/Downloads/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/actool/partial-info.plist</string>
+			<string>/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/actool/bundle/Assets.car</string>
+			<string>/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/actool/bundle/appicon.icns</string>
+			<string>/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>

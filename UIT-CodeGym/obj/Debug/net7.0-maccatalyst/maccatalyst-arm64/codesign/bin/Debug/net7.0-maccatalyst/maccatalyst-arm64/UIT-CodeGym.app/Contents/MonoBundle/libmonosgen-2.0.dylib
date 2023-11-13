@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/bin/Debug/net7.0-maccatalyst/maccatalyst-arm64/UIT-CodeGym.app/Contents/MonoBundle/libmonosgen-2.0.dylib

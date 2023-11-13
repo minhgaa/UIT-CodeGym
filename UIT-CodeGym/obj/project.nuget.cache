@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+B8VkPbKEnVxUSP8xeye+StvmegjCIf56WAiep8eelucnaUJ3PKHoFAR5OzNNI3b+Ev6JSRfq/28KokTtxnH9A==",
+  "dgSpecHash": "8fZ5GMjLHNtvSF5qbyGuh84AMblwBGhXnHN+/iruCzSa73KyqNGrDg4l1yg+AKQVafogym02gWg+0QwqgXCTQg==",
   "success": true,
-  "projectFilePath": "/Users/minhgaa/Downloads/UIT-CodeGym/UIT-CodeGym/UIT-CodeGym.csproj",
+  "projectFilePath": "/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/UIT-CodeGym.csproj",
   "expectedPackageFiles": [
     "/Users/minhgaa/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/minhgaa/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
@@ -14,7 +14,7 @@
     "/Users/minhgaa/.nuget/packages/microsoft.extensions.logging.debug/7.0.0/microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",
     "/Users/minhgaa/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/minhgaa/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "/Users/minhgaa/.nuget/packages/microsoft.maui.graphics/7.0.92/microsoft.maui.graphics.7.0.92.nupkg.sha512",
+    "/Users/minhgaa/.nuget/packages/microsoft.maui.graphics/7.0.101/microsoft.maui.graphics.7.0.101.nupkg.sha512",
     "/Users/minhgaa/.nuget/packages/xamarin.android.glide/4.13.2.2/xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "/Users/minhgaa/.nuget/packages/xamarin.android.glide.annotations/4.13.2.2/xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "/Users/minhgaa/.nuget/packages/xamarin.android.glide.disklrucache/4.13.2.2/xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",
@@ -95,7 +95,11 @@
     "/Users/minhgaa/.nuget/packages/xamarin.kotlin.stdlib.jdk7/1.7.20.1/xamarin.kotlin.stdlib.jdk7.1.7.20.1.nupkg.sha512",
     "/Users/minhgaa/.nuget/packages/xamarin.kotlin.stdlib.jdk8/1.7.20.1/xamarin.kotlin.stdlib.jdk8.1.7.20.1.nupkg.sha512",
     "/Users/minhgaa/.nuget/packages/xamarin.kotlinx.coroutines.android/1.6.4.1/xamarin.kotlinx.coroutines.android.1.6.4.1.nupkg.sha512",
-    "/Users/minhgaa/.nuget/packages/xamarin.kotlinx.coroutines.core.jvm/1.6.4.1/xamarin.kotlinx.coroutines.core.jvm.1.6.4.1.nupkg.sha512"
+    "/Users/minhgaa/.nuget/packages/xamarin.kotlinx.coroutines.core.jvm/1.6.4.1/xamarin.kotlinx.coroutines.core.jvm.1.6.4.1.nupkg.sha512",
+    "/Users/minhgaa/.nuget/packages/microsoft.netcore.app.runtime.mono.android-arm/7.0.13/microsoft.netcore.app.runtime.mono.android-arm.7.0.13.nupkg.sha512",
+    "/Users/minhgaa/.nuget/packages/microsoft.netcore.app.runtime.mono.android-arm64/7.0.13/microsoft.netcore.app.runtime.mono.android-arm64.7.0.13.nupkg.sha512",
+    "/Users/minhgaa/.nuget/packages/microsoft.netcore.app.runtime.mono.android-x86/7.0.13/microsoft.netcore.app.runtime.mono.android-x86.7.0.13.nupkg.sha512",
+    "/Users/minhgaa/.nuget/packages/microsoft.netcore.app.runtime.mono.android-x64/7.0.13/microsoft.netcore.app.runtime.mono.android-x64.7.0.13.nupkg.sha512"
   ],
   "logs": []
 }

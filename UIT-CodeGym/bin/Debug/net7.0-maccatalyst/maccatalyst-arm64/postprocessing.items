@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>UIT-CodeGym.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/minhgaa/Downloads/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
       <DSymName>UIT-CodeGym.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/minhgaa/Downloads/UIT-CodeGym/UIT-CodeGym</SourceProjectPath>
+      <SourceProjectPath>/Users/minhgaa/UIT-CodeGym/UIT-CodeGym</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

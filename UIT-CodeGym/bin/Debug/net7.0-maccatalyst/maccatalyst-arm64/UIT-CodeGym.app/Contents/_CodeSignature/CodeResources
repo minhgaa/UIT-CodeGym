@@ -12,6 +12,10 @@
 		<data>
 		QoBnyueleVI3OdL5FuAKpHToSxg=
 		</data>
+		<key>Resources/MauiInfo.plist</key>
+		<data>
+		keAf4g1EpTxfA90nvczfcHgsYzY=
+		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
 		oowkf1sL6T19nanXUObgmuayWqM=
@@ -39,6 +43,22 @@
 		<key>Resources/dotnet_bot@3x.png</key>
 		<data>
 		AgG9OaBqGlLlSsDbnE/6b1bb0xU=
+		</data>
+		<key>Resources/group_19.png</key>
+		<data>
+		XKhCPVnnjEjvoSP3MCLwUtQmyhw=
+		</data>
+		<key>Resources/undraw_code_thinking_re_gka2.png</key>
+		<data>
+		50viTsBKn6BXeq/j0iOmItvnu7Q=
+		</data>
+		<key>Resources/undraw_code_thinking_re_gka2@2x.png</key>
+		<data>
+		P1K9vJeamTUSjIQbydIGWoUTKfs=
+		</data>
+		<key>Resources/undraw_code_thinking_re_gka2@3x.png</key>
+		<data>
+		+KHwelix+SWOluckecShvuKVb6k=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1321,14 +1341,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mStiZZNLgbyn0GLZZ4fWfpw9AbXYA293NpbZt/R6Pco=
+			SZl9idBYRmEu5wwVPWRQHRgO2zpaViS5xSsBN3htfOg=
 			</data>
 		</dict>
 		<key>MonoBundle/UIT-CodeGym.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7YkVDnh7QjfqXtQqSca0x3U/8S9FRzvYOi2zCekM0v0=
+			2WSjW4/46di1MkclDHr+bG5sTCEdKw9slY1KsQbj2I4=
 			</data>
 		</dict>
 		<key>MonoBundle/WindowsBase.dll</key>
@@ -1422,6 +1442,13 @@
 			Bdc9Y3yyjU2UVAIJFUPJUlQ1fVymcYW4yPUMu30FdRE=
 			</data>
 		</dict>
+		<key>Resources/MauiInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tb/3x7baGCAU6ljR4f2xRbkz5iymNz8wOMo17AXbyLE=
+			</data>
+		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<dict>
 			<key>hash2</key>
@@ -1469,6 +1496,34 @@
 			<key>hash2</key>
 			<data>
 			06Dw48r2qORp1zVQzu1FMEqEQpN18taU/bp0JACYc40=
+			</data>
+		</dict>
+		<key>Resources/group_19.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DGvgLyy+wX7qgAMoM/lVG9cf/YkB3DtUeDyQ4Y4bDbM=
+			</data>
+		</dict>
+		<key>Resources/undraw_code_thinking_re_gka2.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tudmmNcifzVqiMiEfzkqhpSr8JOSNUxuGxtjnhPVzIo=
+			</data>
+		</dict>
+		<key>Resources/undraw_code_thinking_re_gka2@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RNKge0Z8gPGzJ2k404Kb+zCvmg3mPE77+7Gu0XO7gVQ=
+			</data>
+		</dict>
+		<key>Resources/undraw_code_thinking_re_gka2@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xsZ4yjIe9bkfRPL++60oDfdz+Je7T//JSiUrCHmtWi8=
 			</data>
 		</dict>
 	</dict>

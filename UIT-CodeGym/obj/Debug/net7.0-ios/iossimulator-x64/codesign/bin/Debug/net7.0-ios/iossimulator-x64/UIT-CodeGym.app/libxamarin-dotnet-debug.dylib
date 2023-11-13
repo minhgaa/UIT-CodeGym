@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/bin/Debug/net7.0-ios/iossimulator-x64/UIT-CodeGym.app/libxamarin-dotnet-debug.dylib
