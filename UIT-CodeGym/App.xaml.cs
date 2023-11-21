@@ -1,4 +1,5 @@
-﻿namespace UIT_CodeGym;
+﻿using UIT_CodeGym.MVVM.Views;
+namespace UIT_CodeGym;
 
 public partial class App : Application
 {
@@ -6,6 +7,7 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new AppShell();
+		MainPage = new IntroductionPage();
 	}
 }
+

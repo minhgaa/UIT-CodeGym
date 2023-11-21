@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TS5treQyoFCSNFx1TtROCHR8i9RC9dbRZ3M6KTfdeZWTMTrMmIsxR0lsMQY7ALQTw73Hq0g7jF19FG5vqReDgA==",
+  "dgSpecHash": "vMQba4AaFY9Jw8TN4t2XwtLuiEZRz65uuBnNTwFRoFHBrJCojee54JC68H/mGDbj82NZVdT2bOYYvxkaHdXtKw==",
   "success": true,
   "projectFilePath": "D:\\UIT\\Nam2\\LTTQ\\UIT-CodeGym\\UIT-CodeGym\\UIT-CodeGym.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ntr68\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\ntr68\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\ntr68\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\ntr68\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

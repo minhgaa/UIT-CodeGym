@@ -607,6 +607,9 @@
     <AppxPackagedFile Include="C:\Users\ntr68\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.29\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ntr68\.nuget\packages\communitytoolkit.mvvm\8.2.2\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ntr68\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
     </AppxPackagedFile>
@@ -873,6 +876,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\group_19.scale-100.png">
       <PackagePath>group_19.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginbackground.scale-100.png">
+      <PackagePath>loginbackground.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\undraw_code_thinking_re_gka2.scale-100.png">
       <PackagePath>undraw_code_thinking_re_gka2.scale-100.png</PackagePath>
