@@ -32,6 +32,18 @@
 		<data>
 		L9cHAOVSlaW2jMaBgy7GlIBZdZg=
 		</data>
+		<key>Resources/background.png</key>
+		<data>
+		AusCD8kSGE/koiTh8bzyphyNk2I=
+		</data>
+		<key>Resources/background@2x.png</key>
+		<data>
+		HQEKsSfF0t18tr+A3vODeIXAnLQ=
+		</data>
+		<key>Resources/background@3x.png</key>
+		<data>
+		cQzGQ6YaKKV0oiIYtCXrpr1kIpw=
+		</data>
 		<key>Resources/dotnet_bot.png</key>
 		<data>
 		qdYiPSemWrpOK00y89PG6ukhmkA=
@@ -63,6 +75,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>MonoBundle/CommunityToolkit.Mvvm.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oqsulFVnM7C7ilbH956OoKNj+YTEmgrnV+MponOkV3Q=
+			</data>
+		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1341,14 +1360,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wId0oP/B1iLA53Aaybqb4FC67dY4B+dZ8jf+ZmDGxSU=
+			pse6uk8F5dwZsLcVwheT4ga1j9kpITaFrQybQjQfJIY=
 			</data>
 		</dict>
 		<key>MonoBundle/UIT-CodeGym.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vzRziB5lezXH5NYs6tgOGW8Z9tba+tVpKBQjCBfZ3Mk=
+			tElE9qGbdgCZ+0M8gpvLxjK7925AucF1pjQrJQrQ30Y=
 			</data>
 		</dict>
 		<key>MonoBundle/WindowsBase.dll</key>
@@ -1433,6 +1452,27 @@
 			<key>hash2</key>
 			<data>
 			H4w+DqGNITnXOEy4UxkSBph9BjGxHf/ui2zq6lzv5a0=
+			</data>
+		</dict>
+		<key>Resources/background.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zEehDgJ5Kvu+H3zHwy0hssS7CaF7JNx6a3lGy0LcZcE=
+			</data>
+		</dict>
+		<key>Resources/background@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yRhVNZXXMXnht9aMS7nLMGiuJetNO5AZnQUBPSELPKk=
+			</data>
+		</dict>
+		<key>Resources/background@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			il6O+EW85MEci02YaXT/+S6pp/8LO14d1LMoNsHUpm8=
 			</data>
 		</dict>
 		<key>Resources/dotnet_bot.png</key>

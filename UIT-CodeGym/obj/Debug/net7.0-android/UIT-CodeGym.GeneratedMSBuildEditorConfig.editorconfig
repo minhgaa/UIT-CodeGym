@@ -12,28 +12,28 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = UIT_CodeGym
-build_property.ProjectDir = D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\
+build_property.ProjectDir = /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/App.xaml]
+[/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/IntroductionPage.xaml]
+[/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/MVVM/Views/IntroductionPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.IntroductionPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MVVM\Views\IntroductionPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MVVM\Views\IntroductionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM/Views/IntroductionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM/Views/IntroductionPage.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/Resources/Styles/Colors.xaml]
+[/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.Resources.Styles.Colors.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/Resources/Styles/Styles.xaml]
+[/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.Resources.Styles.Styles.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml

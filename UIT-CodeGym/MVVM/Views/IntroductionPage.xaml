@@ -10,6 +10,11 @@
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
+        <Image
+        x:Name="backgroundImage"
+        Source="background.png"
+        Aspect="AspectFill"
+        HorizontalOptions="Start"/>
         <VerticalStackLayout VerticalOptions="Start">
             <Label
                 Margin="20"
