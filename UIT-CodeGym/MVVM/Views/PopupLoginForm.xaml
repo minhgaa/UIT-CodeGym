@@ -42,28 +42,29 @@
                 Margin="60,0,60,20"
                 FontFamily="RalewayRegular"
                 HorizontalOptions="FillAndExpand"
+                IsPassword="True"
                 Placeholder="Password"
                 Text="{Binding Password}"
                 TextColor="Black"
                 VerticalOptions="FillAndExpand" />
-            <HorizontalStackLayout>
-                <CheckBox Margin="20,0,0,0" IsChecked="False" />
+            <HorizontalStackLayout Margin="0,0,0,100" HorizontalOptions="Start">
+                <CheckBox Margin="60,0,0,0" IsChecked="False" />
                 <Label
-                    Margin="0,20,0,0"
-                    FontFamily="RalewayBold"
-                    FontSize="25"
+                    Margin="0,10,0,0"
+                    FontFamily="RalewaySemiBold"
+                    FontSize="20"
                     SemanticProperties.HeadingLevel="Level1"
                     Text="Remember me"
                     TextColor="Black" />
+                <Label
+                    Margin="100,10,0,0"
+                    FontFamily="RalewaySemiBold"
+                    FontSize="20"
+                    SemanticProperties.HeadingLevel="Level1"
+                    Text="Forgot password?"
+                    TextColor="Black" />
 
             </HorizontalStackLayout>
-
-
-
-
-
-
-
         </StackLayout>
 
         <StackLayout Grid.Column="1">
@@ -81,6 +82,4 @@
 
 
     </Grid>
-
-
 </toolkit:Popup>

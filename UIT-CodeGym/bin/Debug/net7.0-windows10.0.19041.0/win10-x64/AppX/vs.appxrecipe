@@ -29,7 +29,7 @@
     <AppXManifest Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-22T02:25:52.884</Modified>
+      <Modified>2023-11-22T09:53:34.736</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\UIT-CodeGym.dll">
       <PackagePath>UIT-CodeGym.dll</PackagePath>
-      <Modified>2023-11-22T02:25:51.206</Modified>
+      <Modified>2023-11-22T09:53:33.554</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>UIT-CodeGym.exe</PackagePath>
-      <Modified>2023-11-22T02:25:51.219</Modified>
+      <Modified>2023-11-22T09:53:33.560</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\UIT-CodeGym.deps.json">
       <PackagePath>UIT-CodeGym.deps.json</PackagePath>

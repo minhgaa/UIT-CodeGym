@@ -24,7 +24,6 @@
                 SemanticProperties.HeadingLevel="Level1"
                 Text="UITCodeGym"
                 TextColor="#05299E" />
-
             <Label
                 Margin="20,20,20,0"
                 FontFamily="RalewaySemiBold"
