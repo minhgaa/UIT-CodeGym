@@ -10,5 +10,8 @@
     <MauiXaml Update="MVVM\Views\IntroductionPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="MVVM\Views\PopupLoginForm.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
   </ItemGroup>
 </Project>

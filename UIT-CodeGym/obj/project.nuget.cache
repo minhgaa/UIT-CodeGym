@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vMQba4AaFY9Jw8TN4t2XwtLuiEZRz65uuBnNTwFRoFHBrJCojee54JC68H/mGDbj82NZVdT2bOYYvxkaHdXtKw==",
+  "dgSpecHash": "UEBfH37QeC63ZK6/vC+wqEVPVXQzHVxM+ebJkDtkmM9iJnPgUlKaqU+hXkkUqtf/yciyokKsGeJ8N8lBLFdvNA==",
   "success": true,
   "projectFilePath": "D:\\UIT\\Nam2\\LTTQ\\UIT-CodeGym\\UIT-CodeGym\\UIT-CodeGym.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ntr68\\.nuget\\packages\\communitytoolkit.maui\\6.1.0\\communitytoolkit.maui.6.1.0.nupkg.sha512",
+    "C:\\Users\\ntr68\\.nuget\\packages\\communitytoolkit.maui.core\\6.1.0\\communitytoolkit.maui.core.6.1.0.nupkg.sha512",
     "C:\\Users\\ntr68\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\ntr68\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\ntr68\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
@@ -20,6 +22,7 @@
     "C:\\Users\\ntr68\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\7.0.96\\microsoft.maui.graphics.win2d.winui.desktop.7.0.96.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\ntr68\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221209.1\\microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512",
+    "C:\\Users\\ntr68\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512",
     "C:\\Users\\ntr68\\.nuget\\packages\\xamarin.android.glide\\4.13.2.2\\xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "C:\\Users\\ntr68\\.nuget\\packages\\xamarin.android.glide.annotations\\4.13.2.2\\xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "C:\\Users\\ntr68\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.13.2.2\\xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",

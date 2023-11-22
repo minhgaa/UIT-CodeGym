@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<toolkit:Popup
+    x:Class="UIT_CodeGym.MVVM.Views.PopupLoginForm"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+    Color="White">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <StackLayout Grid.Column="0">
+            <Label
+                Grid.Row="0"
+                Margin="60,20,300,20"
+                FontFamily="RalewayRegular"
+                FontSize="50"
+                HorizontalOptions="Start"
+                SemanticProperties.HeadingLevel="Level1"
+                Text="UITCodeGym"
+                TextColor="#05299E" />
+
+            <Label
+                Grid.Row="0"
+                Margin="20,100,20,20"
+                FontFamily="RalewayBold"
+                FontSize="50"
+                HorizontalOptions="Center"
+                SemanticProperties.HeadingLevel="Level1"
+                Text="Sign in"
+                TextColor="Black" />
+            <Entry
+                Margin="60,0,60,20"
+                FontFamily="RalewayRegular"
+                HorizontalOptions="FillAndExpand"
+                Placeholder="StudentID"
+                Text="{Binding StudentID}"
+                TextColor="Black"
+                VerticalOptions="FillAndExpand" />
+            <Entry
+                Margin="60,0,60,20"
+                FontFamily="RalewayRegular"
+                HorizontalOptions="FillAndExpand"
+                Placeholder="Password"
+                Text="{Binding Password}"
+                TextColor="Black"
+                VerticalOptions="FillAndExpand" />
+            <HorizontalStackLayout>
+                <CheckBox Margin="20,0,0,0" IsChecked="False" />
+                <Label
+                    Margin="0,20,0,0"
+                    FontFamily="RalewayBold"
+                    FontSize="25"
+                    SemanticProperties.HeadingLevel="Level1"
+                    Text="Remember me"
+                    TextColor="Black" />
+
+            </HorizontalStackLayout>
+
+
+
+
+
+
+
+        </StackLayout>
+
+        <StackLayout Grid.Column="1">
+            <Label
+                Grid.Row="0"
+                Margin="20,150,60,60"
+                FontFamily="RalewaySemiBold"
+                FontSize="64"
+                HorizontalOptions="Start"
+                SemanticProperties.HeadingLevel="Level1"
+                Text="Hope you enjoy it."
+                TextColor="Black" />
+        </StackLayout>
+
+
+
+    </Grid>
+
+
+</toolkit:Popup>

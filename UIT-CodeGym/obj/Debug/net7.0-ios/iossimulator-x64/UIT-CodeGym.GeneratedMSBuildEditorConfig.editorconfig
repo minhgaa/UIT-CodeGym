@@ -22,6 +22,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.Int
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\IntroductionPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\IntroductionPage.xaml
 
+[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/PopupLoginForm.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.PopupLoginForm.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\PopupLoginForm.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\PopupLoginForm.xaml
+
 [D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.Resources.Styles.Colors.xaml

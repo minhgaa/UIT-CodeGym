@@ -62,7 +62,10 @@
                 Text="for new UIT-ers"
                 TextColor="Black" />
 
-            <Button Margin="20,20,0,0" HorizontalOptions="Start">
+            <Button
+                Margin="20,20,0,0"
+                Clicked="SignInPopUp"
+                HorizontalOptions="Start">
                 <Button.Text>Get Started</Button.Text>
                 <Button.TextColor>White</Button.TextColor>
                 <Button.FontSize>24</Button.FontSize>
@@ -76,6 +79,7 @@
             </Button>
 
         </VerticalStackLayout>
+
         <VerticalStackLayout
             Grid.Row="1"
             Margin="20,0,0,20"

@@ -1,3 +1,5 @@
+using CommunityToolkit.Maui.Views;
+
 namespace UIT_CodeGym.MVVM.Views;
 
 public partial class IntroductionPage : ContentPage
@@ -6,4 +8,11 @@ public partial class IntroductionPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+	private void SignInPopUp(object sender, EventArgs e)
+	{
+		var SignInForm = new PopupLoginForm();
+		this.ShowPopup(SignInForm);
+	}
+
 }

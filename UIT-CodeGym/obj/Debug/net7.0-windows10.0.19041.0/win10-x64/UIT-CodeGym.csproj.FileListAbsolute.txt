@@ -328,3 +328,6 @@ D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\wi
 D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
 D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginbackground.scale-100.png
+D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Speech.dll
