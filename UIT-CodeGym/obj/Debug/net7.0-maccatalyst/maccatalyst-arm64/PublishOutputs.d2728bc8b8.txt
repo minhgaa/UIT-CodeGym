@@ -1,4 +1,7 @@
 /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/bin/Debug/net7.0-maccatalyst/maccatalyst-arm64/publish/../UIT-CodeGym.app/Contents/MonoBundle/icudt.dat
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/bin/Debug/net7.0-maccatalyst/maccatalyst-arm64/publish/../UIT-CodeGym.app/Contents/MonoBundle/CommunityToolkit.Maui.dll
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/bin/Debug/net7.0-maccatalyst/maccatalyst-arm64/publish/../UIT-CodeGym.app/Contents/MonoBundle/CommunityToolkit.Maui.Core.dll
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/bin/Debug/net7.0-maccatalyst/maccatalyst-arm64/publish/../UIT-CodeGym.app/Contents/MonoBundle/CommunityToolkit.Mvvm.dll
 /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/bin/Debug/net7.0-maccatalyst/maccatalyst-arm64/publish/../UIT-CodeGym.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.dll
 /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/bin/Debug/net7.0-maccatalyst/maccatalyst-arm64/publish/../UIT-CodeGym.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/bin/Debug/net7.0-maccatalyst/maccatalyst-arm64/publish/../UIT-CodeGym.app/Contents/MonoBundle/Microsoft.Extensions.DependencyInjection.dll

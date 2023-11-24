@@ -14,7 +14,7 @@
 		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
-		keAf4g1EpTxfA90nvczfcHgsYzY=
+		fWCyIe1VXZKrFqimoXnfmoihDnQ=
 		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
@@ -27,6 +27,78 @@
 		<key>Resources/OpenSans-Semibold.ttf</key>
 		<data>
 		XYnGUgrn7MqmVczZK9EvVxo1TBw=
+		</data>
+		<key>Resources/Raleway-Black.ttf</key>
+		<data>
+		T2+t3D5ewifYNS7accM2f2fuVzI=
+		</data>
+		<key>Resources/Raleway-BlackItalic.ttf</key>
+		<data>
+		0lCnuEq252yMxepC7baO6FS+FQY=
+		</data>
+		<key>Resources/Raleway-Bold.ttf</key>
+		<data>
+		31KwUdjL6PI4pBktG4Hm3KKgj3I=
+		</data>
+		<key>Resources/Raleway-BoldItalic.ttf</key>
+		<data>
+		WP205mkOXlbltaq7SV5fODz1BoQ=
+		</data>
+		<key>Resources/Raleway-ExtraBold.ttf</key>
+		<data>
+		UH7Y72+Z5WH1HzzeXMFuCScDCNY=
+		</data>
+		<key>Resources/Raleway-ExtraBoldItalic.ttf</key>
+		<data>
+		c183DbGFYSLv3hxZkPMR5U6loRE=
+		</data>
+		<key>Resources/Raleway-ExtraLight.ttf</key>
+		<data>
+		zGIZFVTpLYvUTu3A8em3l5VEVI0=
+		</data>
+		<key>Resources/Raleway-ExtraLightItalic.ttf</key>
+		<data>
+		JrodXP9JxarENDRxNPfj0AkWW7c=
+		</data>
+		<key>Resources/Raleway-Italic.ttf</key>
+		<data>
+		qSJuO6iGR7sjGY6iZOJNrvdeAi4=
+		</data>
+		<key>Resources/Raleway-Light.ttf</key>
+		<data>
+		jSsgHwU/YBGy8CER+0S3aoFGgko=
+		</data>
+		<key>Resources/Raleway-LightItalic.ttf</key>
+		<data>
+		AHdFCQBX4SktnRvK9CyAQh5VPV0=
+		</data>
+		<key>Resources/Raleway-Medium.ttf</key>
+		<data>
+		GBKO9rUwahHyVqTxbC+mOri2CNk=
+		</data>
+		<key>Resources/Raleway-MediumItalic.ttf</key>
+		<data>
+		w2+fjS2nsz3eagQfhotgwGTMGiA=
+		</data>
+		<key>Resources/Raleway-Regular.ttf</key>
+		<data>
+		Wjf1HWoirobMZMkIW19ksYCtJgk=
+		</data>
+		<key>Resources/Raleway-SemiBold.ttf</key>
+		<data>
+		qY3uluHpP79P8cUPbog05J8X9y8=
+		</data>
+		<key>Resources/Raleway-SemiBoldItalic.ttf</key>
+		<data>
+		y/DvctFxywF9jXnV+Yao8XwFw5E=
+		</data>
+		<key>Resources/Raleway-Thin.ttf</key>
+		<data>
+		GgZKzKLw4yfo38IyXBZfbmyneSw=
+		</data>
+		<key>Resources/Raleway-ThinItalic.ttf</key>
+		<data>
+		vT7za7ZrOYHVUQti2yvQd+6LjkA=
 		</data>
 		<key>Resources/appicon.icns</key>
 		<data>
@@ -75,6 +147,20 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>MonoBundle/CommunityToolkit.Maui.Core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XgQtK8EM9UmBaj3w+ybxj692cAxqVDwWbvcPBVei6zk=
+			</data>
+		</dict>
+		<key>MonoBundle/CommunityToolkit.Maui.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rkp0FOcdRa/aXp2lrA/gpzxRIJNCrCP9gBZ+tuhCAaY=
+			</data>
+		</dict>
 		<key>MonoBundle/CommunityToolkit.Mvvm.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1360,14 +1446,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pse6uk8F5dwZsLcVwheT4ga1j9kpITaFrQybQjQfJIY=
+			cb/X+3ZxGdG51kxZSVswHM2y6DyqYoJ2FKxfVV6jbis=
 			</data>
 		</dict>
 		<key>MonoBundle/UIT-CodeGym.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tElE9qGbdgCZ+0M8gpvLxjK7925AucF1pjQrJQrQ30Y=
+			lfr2em+TwL9r5ItNHHd//kkdvnOFdnq2uD3QIksSiSs=
 			</data>
 		</dict>
 		<key>MonoBundle/WindowsBase.dll</key>
@@ -1423,7 +1509,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tb/3x7baGCAU6ljR4f2xRbkz5iymNz8wOMo17AXbyLE=
+			SE2a0lUAVp9HOm9zhB/eRRhiNjUIDOw/iwfUaWFfZ3Q=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
@@ -1445,6 +1531,132 @@
 			<key>hash2</key>
 			<data>
 			8YzWRFTcps0nvFN7X4WznR/vZs5CBHaSYlU7s6+7Ucs=
+			</data>
+		</dict>
+		<key>Resources/Raleway-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XDOJu7cH5cO78STVawkC0XGICpVhsNsw8Y2jnbm+BG4=
+			</data>
+		</dict>
+		<key>Resources/Raleway-BlackItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pAqDsYCt/8iGqQXkLjrybyDgJSVjNNSqjIqtCCfIGZU=
+			</data>
+		</dict>
+		<key>Resources/Raleway-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			guOZLv3jDi+ID7IhduoJC3l6EkXJQRktOn22JLlauTw=
+			</data>
+		</dict>
+		<key>Resources/Raleway-BoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7pC/xuV8k2XJiWiLHzngl1K4GAfc1mm5v0E7jzk3CXY=
+			</data>
+		</dict>
+		<key>Resources/Raleway-ExtraBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			coQS56okucKH3li9iMBUKnc9VxRq6BFXO6EZMuUr5ik=
+			</data>
+		</dict>
+		<key>Resources/Raleway-ExtraBoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K05KgLFp4MrV9amhIjFFe8qFbEr2p6LOIbCqfyLge3c=
+			</data>
+		</dict>
+		<key>Resources/Raleway-ExtraLight.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yVkewmVn7XD96wi9mToySTcpysALf56uzSYH/xAtczs=
+			</data>
+		</dict>
+		<key>Resources/Raleway-ExtraLightItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZpsUdR9yB3I0NARCUGj0Z+VwqoyVYUzGG3HWTTHYajs=
+			</data>
+		</dict>
+		<key>Resources/Raleway-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MXOBYF7LzQt8u9W+LgFveHaDVfFNsGeaTzjZXDDfnmI=
+			</data>
+		</dict>
+		<key>Resources/Raleway-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			upe4fypv7lyCq24sk01CBNiL+iCcSIWnns3aOo7u/X8=
+			</data>
+		</dict>
+		<key>Resources/Raleway-LightItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+6wlV86bhKq3KDo6Ts9xmfg3j9+HDO6YVqkLE6NYcqU=
+			</data>
+		</dict>
+		<key>Resources/Raleway-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PLRa5CO7eax4gDbAx8qhNSeUVZL//HrAlEXKvp2T900=
+			</data>
+		</dict>
+		<key>Resources/Raleway-MediumItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N28JxqbhGQiArEexNQg+TVDsaG5hiT284XxBRLo/m0k=
+			</data>
+		</dict>
+		<key>Resources/Raleway-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kx43oi40dzqQs+j0aYjwKRQDk+vNN+IANUQSKzyQkaQ=
+			</data>
+		</dict>
+		<key>Resources/Raleway-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wv9PW/vzJpuiDIzLAh8M0slI1HZRiMkhMKXkB/Obn4I=
+			</data>
+		</dict>
+		<key>Resources/Raleway-SemiBoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ad4uZeDmXtKuMvRlQ6bWy+gJ0rfd3pEhiFPTXF7Cfh8=
+			</data>
+		</dict>
+		<key>Resources/Raleway-Thin.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			147k0aGNDppUfc2596UNkQBhLFnvYyeemGjJK4YTyQA=
+			</data>
+		</dict>
+		<key>Resources/Raleway-ThinItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			INHfDSKS4H05AG4NdMrpO90o5irWHM5qlJ2sKIpPa+g=
 			</data>
 		</dict>
 		<key>Resources/appicon.icns</key>

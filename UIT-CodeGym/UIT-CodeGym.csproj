@@ -30,6 +30,9 @@
 		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'tizen'">6.5</SupportedOSPlatformVersion>
 	</PropertyGroup>
 
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net7.0-ios|AnyCPU'">
+	  <CreatePackage>false</CreatePackage>
+	</PropertyGroup>
 	<ItemGroup>
 		<!-- App Icon -->
 		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#512BD4" />
@@ -46,10 +49,82 @@
 
 		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+		<MauiFont Include="Resources\Fonts\static\Raleway-BoldItalic.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-MediumItalic.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-ThinItalic.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-ExtraLight.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-Medium.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-SemiBold.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-ExtraBold.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-ExtraBoldItalic.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-Regular.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-ExtraLightItalic.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-SemiBoldItalic.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-Light.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-Black.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-BlackItalic.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-LightItalic.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-Thin.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-Italic.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
+		<MauiFont Include="Resources\Fonts\static\Raleway-Bold.ttf">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</MauiFont>
 	</ItemGroup>
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\loginbackground.png" />
+	  <None Remove="Resources\Fonts\static\Raleway-BoldItalic.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-MediumItalic.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-ThinItalic.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-ExtraLight.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-Medium.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-SemiBold.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-ExtraBold.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-ExtraBoldItalic.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-Regular.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-ExtraLightItalic.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-SemiBoldItalic.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-Light.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-Black.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-BlackItalic.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-LightItalic.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-Thin.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-Italic.ttf" />
+	  <None Remove="Resources\Fonts\static\Raleway-Bold.ttf" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -72,4 +147,9 @@
 	  </MauiXaml>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="MauiProgram.cs">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Compile>
+	</ItemGroup>
 </Project>

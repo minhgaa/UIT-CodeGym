@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E02216F0-4039-449A-A89A-41D4E5A161D1}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UIT-CodeGym/MVVM/Views/IntroductionPage.xaml">
+    <Files>
+      <File FileName="UIT-CodeGym/MauiProgram.cs" Line="22" Column="10" />
+      <File FileName="UIT-CodeGym/Platforms/MacCatalyst/Program.cs" Line="1" Column="1" />
+      <File FileName="UIT-CodeGym/MVVM/Views/IntroductionPage.xaml" Line="54" Column="46" />
+      <File FileName="../../../usr/local/share/dotnet/packs/Microsoft.MacCatalyst.Sdk/16.4.7125/tools/msbuild/iOS/Xamarin.Shared.targets" Line="1757" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UIT-CodeGym" expanded="True">
+            <Node name="UIT-CodeGym">
+              <Node name="MVVM">
+                <Node name="Views">
+                  <Node name="IntroductionPage.xaml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Platforms" expanded="True">
+                <Node name="MacCatalyst" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UIT-CodeGym PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
