@@ -125,6 +125,9 @@
 	  <None Remove="Resources\Fonts\static\Raleway-Thin.ttf" />
 	  <None Remove="Resources\Fonts\static\Raleway-Italic.ttf" />
 	  <None Remove="Resources\Fonts\static\Raleway-Bold.ttf" />
+	  <None Remove="Resources\Images\rectangle27.svg" />
+	  <None Remove="Resources\Images\group42.svg" />
+	  <None Remove="Resources\Images\group421.svg" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -151,5 +154,10 @@
 	  <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="MauiProgram.cs">
 	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 	  </Compile>
+	</ItemGroup>
+	<ItemGroup>
+	  <BundleResource Include="Resources\Images\rectangle27.svg" />
+	  <BundleResource Include="Resources\Images\group42.svg" />
+	  <BundleResource Include="Resources\Images\group421.svg" />
 	</ItemGroup>
 </Project>

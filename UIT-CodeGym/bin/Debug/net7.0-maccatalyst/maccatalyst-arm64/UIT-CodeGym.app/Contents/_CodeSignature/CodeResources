@@ -12,6 +12,18 @@
 		<data>
 		QoBnyueleVI3OdL5FuAKpHToSxg=
 		</data>
+		<key>Resources/Images/group42.svg</key>
+		<data>
+		FWoLVeHXtQIkaRLHh0opj/sDOEk=
+		</data>
+		<key>Resources/Images/group421.svg</key>
+		<data>
+		xrMzlP7IYeNv+6daK5cMARqLDAE=
+		</data>
+		<key>Resources/Images/rectangle27.svg</key>
+		<data>
+		eccXw3V/Wy4u7noRgWWxtUv6Nw0=
+		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
 		fWCyIe1VXZKrFqimoXnfmoihDnQ=
@@ -128,9 +140,45 @@
 		<data>
 		AgG9OaBqGlLlSsDbnE/6b1bb0xU=
 		</data>
+		<key>Resources/group42.png</key>
+		<data>
+		ZD9/PHzTT/wi/ViOMWuhihS4vRM=
+		</data>
+		<key>Resources/group421.png</key>
+		<data>
+		qec9uore2EwO9JPcPlrbkfSzme0=
+		</data>
+		<key>Resources/group421@2x.png</key>
+		<data>
+		tjxA1frncOWLKAehY/vs4WEQtKA=
+		</data>
+		<key>Resources/group421@3x.png</key>
+		<data>
+		NPHgy6muRP/ziESqsJsitIvme2o=
+		</data>
+		<key>Resources/group42@2x.png</key>
+		<data>
+		I8OZa62FsWSODkpFDpwl2L8PyhI=
+		</data>
+		<key>Resources/group42@3x.png</key>
+		<data>
+		JZF4our8r+tKhlZ5roi5RljI0M8=
+		</data>
 		<key>Resources/group_19.png</key>
 		<data>
 		XKhCPVnnjEjvoSP3MCLwUtQmyhw=
+		</data>
+		<key>Resources/rectangle27.png</key>
+		<data>
+		ljBIGMQo8offCVZJ1UnqWrOyvPU=
+		</data>
+		<key>Resources/rectangle27@2x.png</key>
+		<data>
+		wibbaBIBvlwtgb22zc4zpomC15k=
+		</data>
+		<key>Resources/rectangle27@3x.png</key>
+		<data>
+		DgooIv3rmDqMUPsv6p07LRkPF5M=
 		</data>
 		<key>Resources/undraw_code_thinking_re_gka2.png</key>
 		<data>
@@ -1446,7 +1494,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U9P8mMX4m0mD33vGiW2zNPbsf5RzpSi87hY0UADRoTs=
+			1DurGbEHkhl9VxoH0iSkN56xnOBVznj1RBjHgbn7G9o=
 			</data>
 		</dict>
 		<key>MonoBundle/UIT-CodeGym.pdb</key>
@@ -1545,6 +1593,27 @@
 			<key>hash2</key>
 			<data>
 			Bdc9Y3yyjU2UVAIJFUPJUlQ1fVymcYW4yPUMu30FdRE=
+			</data>
+		</dict>
+		<key>Resources/Images/group42.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lEfqw8VbjDtxL/wP84Q9QSu8T7owdGZ6O33Bt679tTQ=
+			</data>
+		</dict>
+		<key>Resources/Images/group421.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qoPyuYD0vqhITfG0n0KrS6gwkB1+E7cgmP+yERZZ5xI=
+			</data>
+		</dict>
+		<key>Resources/Images/rectangle27.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BuJ/D7PRqNch8tEGFBn6leRsgKTrOeh3CTsGC6ZyzLE=
 			</data>
 		</dict>
 		<key>Resources/MauiInfo.plist</key>
@@ -1750,11 +1819,74 @@
 			06Dw48r2qORp1zVQzu1FMEqEQpN18taU/bp0JACYc40=
 			</data>
 		</dict>
+		<key>Resources/group42.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yUl+5D/ut1nrv3bGDh0X6tL1XKW+VXd9noIRA9xVkbE=
+			</data>
+		</dict>
+		<key>Resources/group421.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZZWtrSigVoPVJhKsLidRDXfoQrr+WxlQydU04SJ47kc=
+			</data>
+		</dict>
+		<key>Resources/group421@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MMLvgwrRUUU61IgecolnedRb+m5AH9V7bic1vXy/zkI=
+			</data>
+		</dict>
+		<key>Resources/group421@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cRr54ucz5qZ5p3NTcOLXJlprBkAalV/o7cV8Qfmi3RU=
+			</data>
+		</dict>
+		<key>Resources/group42@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Xbtj7HI4cMg37VuYPCT7m+12re0b4SY+UuggulSzP4o=
+			</data>
+		</dict>
+		<key>Resources/group42@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j1TYLu5wepmTnUG7iwOBvfo+8QIzawcFMwC6d0hI5ng=
+			</data>
+		</dict>
 		<key>Resources/group_19.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			DGvgLyy+wX7qgAMoM/lVG9cf/YkB3DtUeDyQ4Y4bDbM=
+			</data>
+		</dict>
+		<key>Resources/rectangle27.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eirE7K6VFdwllo21ik+7MXA+6BYnJTgjgpqgQNwapnw=
+			</data>
+		</dict>
+		<key>Resources/rectangle27@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X4cAYnJrmIGMLLVoI520DIGwY8g7SZ9r/OsVIEqL12o=
+			</data>
+		</dict>
+		<key>Resources/rectangle27@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yMT3uJDqxybnaIgPRoLAS8aA3FixU1MVzog343r0hEs=
 			</data>
 		</dict>
 		<key>Resources/undraw_code_thinking_re_gka2.png</key>

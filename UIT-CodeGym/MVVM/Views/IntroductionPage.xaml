@@ -4,19 +4,19 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     Title="IntroductionPage"
-    BackgroundColor="White">
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="Auto" />
-            <RowDefinition Height="*" />
-        </Grid.RowDefinitions>
-        <Image
+    BackgroundColor="White" >
+<Grid>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="Auto" />
+        <RowDefinition Height="*" />
+    </Grid.RowDefinitions>
+    <Image
             x:Name="backgroundImage"
             Aspect="AspectFill"
             HorizontalOptions="Start"
             Source="background.png" />
-        <VerticalStackLayout VerticalOptions="Start">
-            <Label
+    <VerticalStackLayout VerticalOptions="Start">
+        <Label
                 Margin="20"
                 FontFamily="RalewayExtraBold"
                 FontSize="50"
@@ -24,8 +24,8 @@
                 SemanticProperties.HeadingLevel="Level1"
                 Text="UITCodeGym"
                 TextColor="#05299E" />
-            <Label
-                Margin="20,20,20,0"
+        <Label
+                Margin="20,60,20,0"
                 FontFamily="RalewaySemiBold"
                 FontSize="70"
                 HorizontalOptions="Start"
@@ -33,7 +33,7 @@
                 Text="EASY LEARNING"
                 TextColor="Black" />
 
-            <Label
+        <Label
                 Margin="20,0,20,0"
                 FontFamily="RalewaySemiBold"
                 FontSize="70"
@@ -41,7 +41,7 @@
                 SemanticProperties.HeadingLevel="Level1"
                 Text="HOW TO CODE"
                 TextColor="Black" />
-            <Label
+        <Label
                 Margin="20,20,20,0"
                 FontFamily="RalewayRegular"
                 FontSize="36"
@@ -49,7 +49,7 @@
                 SemanticProperties.HeadingLevel="Level1"
                 Text="Play games and practice for the"
                 TextColor="Black" />
-            <Label
+        <Label
                 Margin="20,0,20,0"
                 FontFamily="RalewayRegular"
                 FontSize="36"
@@ -57,7 +57,7 @@
                 SemanticProperties.HeadingLevel="Level1"
                 Text="Programming Knowledge exam"
                 TextColor="Black" />
-            <Label
+        <Label
                 Margin="20,0,20,0"
                 FontFamily="RalewayRegular"
                 FontSize="36"
@@ -66,37 +66,34 @@
                 Text="for new UIT-ers"
                 TextColor="Black" />
 
-            <Button
-                Margin="20,20,0,0"
+        <Button
+                Margin="20,40,0,0"
                 Clicked="SignInPopUp"
-                HorizontalOptions="Start">
-                <Button.Text>Get Started</Button.Text>
-                <Button.TextColor>White</Button.TextColor>
-                <Button.FontSize>24</Button.FontSize>
-                <Button.FontFamily>RalewaySemiBold</Button.FontFamily>
-                <Button.Background>
-                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
-                        <GradientStop Offset="0.0" Color="#7B90D7" />
-                        <GradientStop Offset="1.0" Color="#FFA9DD" />
-                    </LinearGradientBrush>
-                </Button.Background>
-            </Button>
+                HorizontalOptions="Start" CornerRadius="20">
+            <Button.Text>Get Started</Button.Text>
+            <Button.TextColor>White</Button.TextColor>
+            <Button.FontSize>24</Button.FontSize>
+            <Button.FontFamily>RalewaySemiBold</Button.FontFamily>
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                    <GradientStop Offset="0.0" Color="#7B90D7" />
+                    <GradientStop Offset="1.0" Color="#FFA9DD" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
 
-        </VerticalStackLayout>
+    </VerticalStackLayout>
 
-        <VerticalStackLayout
+    <VerticalStackLayout
             Grid.Row="1"
             Margin="20,0,0,20"
             VerticalOptions="End">
-            <Label
+        <Label
                 FontFamily="RalewaySemiBold"
                 FontSize="36"
                 Text="UIT - Chọn để dẫn đầu"
                 TextColor="Black" />
 
-        </VerticalStackLayout>
-    </Grid>
-
-
-
+    </VerticalStackLayout>
+</Grid>
 </ContentPage>

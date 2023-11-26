@@ -724,3 +724,15 @@
 /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/f/Raleway-SemiBoldItalic.ttf
 /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/f/Raleway-Thin.ttf
 /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/f/Raleway-ThinItalic.ttf
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/r/group42.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/r/group42@2x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/r/group42@3x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/r/rectangle27.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/r/rectangle27@2x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/r/rectangle27@3x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/r/group421.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/r/group421@2x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resizetizer/r/group421@3x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resourcestamps/CommunityToolkit.Maui.Core.stamp
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resourcestamps/CommunityToolkit.Maui.stamp
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-arm64/resourcestamps/CommunityToolkit.Mvvm.stamp
