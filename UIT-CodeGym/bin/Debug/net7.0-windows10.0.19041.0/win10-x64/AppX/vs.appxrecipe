@@ -29,29 +29,33 @@
     <AppXManifest Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-22T14:39:00.962</Modified>
+      <Modified>2023-11-27T00:42:23.109</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-22T02:25:52.590</Modified>
+      <Modified>2023-11-25T01:24:55.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\UIT-CodeGym.runtimeconfig.json">
       <PackagePath>UIT-CodeGym.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-22T02:25:52.512</Modified>
+      <Modified>2023-11-25T01:24:55.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\UIT-CodeGym.dll">
       <PackagePath>UIT-CodeGym.dll</PackagePath>
-      <Modified>2023-11-22T14:38:59.435</Modified>
+      <Modified>2023-11-27T00:42:21.452</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>UIT-CodeGym.exe</PackagePath>
-      <Modified>2023-11-22T14:38:59.460</Modified>
+      <Modified>2023-11-27T00:42:21.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\MauiProgram.cs">
+      <PackagePath>MauiProgram.cs</PackagePath>
+      <Modified>2023-11-25T01:23:50.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\UIT-CodeGym.deps.json">
       <PackagePath>UIT-CodeGym.deps.json</PackagePath>
-      <Modified>2023-11-22T02:25:52.460</Modified>
+      <Modified>2023-11-25T01:24:55.366</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ntr68\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.13\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -972,6 +976,78 @@
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-11-17T03:29:34.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Black.ttf">
+      <PackagePath>Raleway-Black.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-BlackItalic.ttf">
+      <PackagePath>Raleway-BlackItalic.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Bold.ttf">
+      <PackagePath>Raleway-Bold.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-BoldItalic.ttf">
+      <PackagePath>Raleway-BoldItalic.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-ExtraBold.ttf">
+      <PackagePath>Raleway-ExtraBold.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-ExtraBoldItalic.ttf">
+      <PackagePath>Raleway-ExtraBoldItalic.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-ExtraLight.ttf">
+      <PackagePath>Raleway-ExtraLight.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-ExtraLightItalic.ttf">
+      <PackagePath>Raleway-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Italic.ttf">
+      <PackagePath>Raleway-Italic.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Light.ttf">
+      <PackagePath>Raleway-Light.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-LightItalic.ttf">
+      <PackagePath>Raleway-LightItalic.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Medium.ttf">
+      <PackagePath>Raleway-Medium.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-MediumItalic.ttf">
+      <PackagePath>Raleway-MediumItalic.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Regular.ttf">
+      <PackagePath>Raleway-Regular.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-SemiBold.ttf">
+      <PackagePath>Raleway-SemiBold.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-SemiBoldItalic.ttf">
+      <PackagePath>Raleway-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Thin.ttf">
+      <PackagePath>Raleway-Thin.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-ThinItalic.ttf">
+      <PackagePath>Raleway-ThinItalic.ttf</PackagePath>
+      <Modified>2023-11-17T03:28:16.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>

@@ -37,6 +37,9 @@
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>UIT-CodeGym.exe</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\MauiProgram.cs">
+      <PackagePath>MauiProgram.cs</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\UIT-CodeGym.deps.json">
       <PackagePath>UIT-CodeGym.deps.json</PackagePath>
     </AppxPackagedFile>
@@ -729,6 +732,60 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Black.ttf">
+      <PackagePath>Raleway-Black.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-BlackItalic.ttf">
+      <PackagePath>Raleway-BlackItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Bold.ttf">
+      <PackagePath>Raleway-Bold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-BoldItalic.ttf">
+      <PackagePath>Raleway-BoldItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-ExtraBold.ttf">
+      <PackagePath>Raleway-ExtraBold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-ExtraBoldItalic.ttf">
+      <PackagePath>Raleway-ExtraBoldItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-ExtraLight.ttf">
+      <PackagePath>Raleway-ExtraLight.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-ExtraLightItalic.ttf">
+      <PackagePath>Raleway-ExtraLightItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Italic.ttf">
+      <PackagePath>Raleway-Italic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Light.ttf">
+      <PackagePath>Raleway-Light.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-LightItalic.ttf">
+      <PackagePath>Raleway-LightItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Medium.ttf">
+      <PackagePath>Raleway-Medium.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-MediumItalic.ttf">
+      <PackagePath>Raleway-MediumItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Regular.ttf">
+      <PackagePath>Raleway-Regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-SemiBold.ttf">
+      <PackagePath>Raleway-SemiBold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-SemiBoldItalic.ttf">
+      <PackagePath>Raleway-SemiBoldItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-Thin.ttf">
+      <PackagePath>Raleway-Thin.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\Raleway-ThinItalic.ttf">
+      <PackagePath>Raleway-ThinItalic.ttf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
