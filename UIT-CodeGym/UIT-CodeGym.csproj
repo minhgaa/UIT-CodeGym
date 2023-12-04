@@ -128,10 +128,11 @@
 	  <None Remove="Resources\Fonts\static\Raleway-Italic.ttf" />
 	  <None Remove="Resources\Fonts\static\Raleway-Bold.ttf" />
 	  <None Remove="Resources\Images\online_learning.png" />
-	  <None Remove="Resources\Images\rectangle27.svg" />
-	  <None Remove="Resources\Images\group42.svg" />
 	  <None Remove="Resources\Images\group421.svg" />
 	  <None Remove="Resources\Images\user.png" />
+	  <None Remove="Resources\Images\design-software.svg" />
+	  <None Remove="Resources\Images\latenight.svg" />
+	  <None Remove="Resources\Images\online-exam.svg" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -160,8 +161,9 @@
 	  </Compile>
 	</ItemGroup>
 	<ItemGroup>
-	  <BundleResource Include="Resources\Images\rectangle27.svg" />
-	  <BundleResource Include="Resources\Images\group42.svg" />
 	  <BundleResource Include="Resources\Images\group421.svg" />
+	  <BundleResource Include="Resources\Images\designsoftware.svg" />
+	  <BundleResource Include="Resources\Images\latenight.svg" />
+	  <BundleResource Include="Resources\Images\onlineexam.svg" />
 	</ItemGroup>
 </Project>

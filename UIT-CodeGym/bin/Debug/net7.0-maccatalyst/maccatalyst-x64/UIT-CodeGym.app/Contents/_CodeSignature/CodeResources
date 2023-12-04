@@ -12,6 +12,10 @@
 		<data>
 		QoBnyueleVI3OdL5FuAKpHToSxg=
 		</data>
+		<key>Resources/Images/designsoftware.svg</key>
+		<data>
+		RoOlzDVM6p0LOJzKqTwmSdYf8Sk=
+		</data>
 		<key>Resources/Images/group42.svg</key>
 		<data>
 		FWoLVeHXtQIkaRLHh0opj/sDOEk=
@@ -19,6 +23,14 @@
 		<key>Resources/Images/group421.svg</key>
 		<data>
 		xrMzlP7IYeNv+6daK5cMARqLDAE=
+		</data>
+		<key>Resources/Images/latenight.svg</key>
+		<data>
+		PDHIqm+u+1jVnaFC3QCbmBqsVGU=
+		</data>
+		<key>Resources/Images/onlineexam.svg</key>
+		<data>
+		28fBH20ItWxBq+5cWQSebmG2cG4=
 		</data>
 		<key>Resources/Images/rectangle27.svg</key>
 		<data>
@@ -116,6 +128,10 @@
 		<data>
 		L9cHAOVSlaW2jMaBgy7GlIBZdZg=
 		</data>
+		<key>Resources/ask.png</key>
+		<data>
+		mIHPR+qenlmG+LTgcL6kL/oUNBY=
+		</data>
 		<key>Resources/background.png</key>
 		<data>
 		AusCD8kSGE/koiTh8bzyphyNk2I=
@@ -127,6 +143,22 @@
 		<key>Resources/background@3x.png</key>
 		<data>
 		cQzGQ6YaKKV0oiIYtCXrpr1kIpw=
+		</data>
+		<key>Resources/designsoftware.png</key>
+		<data>
+		qlFxuqKEsnXyGCJqUJwey2mjGHg=
+		</data>
+		<key>Resources/designsoftware@2x.png</key>
+		<data>
+		nwqs1aAPTeMZIxR1SVdieM+tymU=
+		</data>
+		<key>Resources/designsoftware@3x.png</key>
+		<data>
+		o9bVmoHebeyzozgy+GTtqvBavRk=
+		</data>
+		<key>Resources/digital_library.png</key>
+		<data>
+		uxXZpc3rR0p38YKaaBZvaBsZqz0=
 		</data>
 		<key>Resources/dotnet_bot.png</key>
 		<data>
@@ -168,6 +200,34 @@
 		<data>
 		XKhCPVnnjEjvoSP3MCLwUtQmyhw=
 		</data>
+		<key>Resources/latenight.png</key>
+		<data>
+		jE2pSGOlHtL24+lO67Mh2HFUE6E=
+		</data>
+		<key>Resources/latenight@2x.png</key>
+		<data>
+		243mL8LL0LaUwaBejTfsBm74+m8=
+		</data>
+		<key>Resources/latenight@3x.png</key>
+		<data>
+		UEC4/Aoty4bcp5Y8eN5BeYrJFrk=
+		</data>
+		<key>Resources/online_learning.png</key>
+		<data>
+		xoPmNHSelw+i44+Oj2VNr6UUVfg=
+		</data>
+		<key>Resources/onlineexam.png</key>
+		<data>
+		NM0VAp390VubJB3bT4De5Uo2+Ug=
+		</data>
+		<key>Resources/onlineexam@2x.png</key>
+		<data>
+		2WIMXq2t/ahi0oSbxX2+4fVv6l4=
+		</data>
+		<key>Resources/onlineexam@3x.png</key>
+		<data>
+		O0ADeuP4e7Era8h3cEY2wid3nmE=
+		</data>
 		<key>Resources/rectangle27.png</key>
 		<data>
 		ljBIGMQo8offCVZJ1UnqWrOyvPU=
@@ -180,6 +240,18 @@
 		<data>
 		DgooIv3rmDqMUPsv6p07LRkPF5M=
 		</data>
+		<key>Resources/selflearning.png</key>
+		<data>
+		zyF3OPehUSI4Y99Hn6gZz7z9xr8=
+		</data>
+		<key>Resources/selflearning@2x.png</key>
+		<data>
+		U1hpx+P7o+aH/Gz9wqesatZm9sU=
+		</data>
+		<key>Resources/selflearning@3x.png</key>
+		<data>
+		nP9fHqO9GzLeLc3687twGm0qmHM=
+		</data>
 		<key>Resources/undraw_code_thinking_re_gka2.png</key>
 		<data>
 		50viTsBKn6BXeq/j0iOmItvnu7Q=
@@ -191,6 +263,10 @@
 		<key>Resources/undraw_code_thinking_re_gka2@3x.png</key>
 		<data>
 		+KHwelix+SWOluckecShvuKVb6k=
+		</data>
+		<key>Resources/user.png</key>
+		<data>
+		powu34twAGcEPLHIW2Yl2Pm42M4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1494,14 +1570,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PgYmAOEFeZaKTQ7hd832zT1goCutLzPSZNrEKYhnoF0=
+			OU87xsQnTf/4CTx8xVOWdrjY8c9aYH5IE+vf2dXmyTA=
 			</data>
 		</dict>
 		<key>MonoBundle/UIT-CodeGym.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xofjN3fBEJ98cpNnr6UfrHUAr68Ld+bX+d1cZN6UkLo=
+			T7JLSqvOSAbKdDHCQhHsNG97+8hcDmvt5zsey2eyVsQ=
 			</data>
 		</dict>
 		<key>MonoBundle/WindowsBase.dll</key>
@@ -1553,6 +1629,13 @@
 			Bdc9Y3yyjU2UVAIJFUPJUlQ1fVymcYW4yPUMu30FdRE=
 			</data>
 		</dict>
+		<key>Resources/Images/designsoftware.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			POZL8MSdT2nnX6EXDj8lX3l71CULxXjYzjqqGfL+AHo=
+			</data>
+		</dict>
 		<key>Resources/Images/group42.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -1565,6 +1648,20 @@
 			<key>hash2</key>
 			<data>
 			qoPyuYD0vqhITfG0n0KrS6gwkB1+E7cgmP+yERZZ5xI=
+			</data>
+		</dict>
+		<key>Resources/Images/latenight.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fD0u8+hnixQcrKESI6naaKIs2b+oLfSlrec17mgavYE=
+			</data>
+		</dict>
+		<key>Resources/Images/onlineexam.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1DSwGLo/yPa1sTsKZT05IP/6OcQlc1a6n9DIai1BdDU=
 			</data>
 		</dict>
 		<key>Resources/Images/rectangle27.svg</key>
@@ -1735,6 +1832,13 @@
 			H4w+DqGNITnXOEy4UxkSBph9BjGxHf/ui2zq6lzv5a0=
 			</data>
 		</dict>
+		<key>Resources/ask.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eFEfookYOt9YMtd/ZPPFqC4xOr/nPEEQ5MvJh40HwJY=
+			</data>
+		</dict>
 		<key>Resources/background.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1754,6 +1858,34 @@
 			<key>hash2</key>
 			<data>
 			il6O+EW85MEci02YaXT/+S6pp/8LO14d1LMoNsHUpm8=
+			</data>
+		</dict>
+		<key>Resources/designsoftware.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GS0WciCdbWTVuMn0VtHT0FAxsIIiJnK4Fa32rx6qTrU=
+			</data>
+		</dict>
+		<key>Resources/designsoftware@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zcGkhahmJ5Gcw3o6xuUWF7E8tnqk8e7cDELFuH+l7lI=
+			</data>
+		</dict>
+		<key>Resources/designsoftware@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0O6nZTSVJuNvq5X8sYkDbFNCL8zBF0sBPXlfsqKDmL0=
+			</data>
+		</dict>
+		<key>Resources/digital_library.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wK71Mv3EjnkW8gSFZ3Tt/jQo9fFKhZ4rf9h0E1oh6vM=
 			</data>
 		</dict>
 		<key>Resources/dotnet_bot.png</key>
@@ -1826,6 +1958,55 @@
 			DGvgLyy+wX7qgAMoM/lVG9cf/YkB3DtUeDyQ4Y4bDbM=
 			</data>
 		</dict>
+		<key>Resources/latenight.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WNbwKH9s4f/3+llJCfm8fUi0GrSuxHC7GEyxedeb/oY=
+			</data>
+		</dict>
+		<key>Resources/latenight@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3pvHTI3DMOMnJ6Z/pdEOINZw38k8o5O2lpdrW+m/TqI=
+			</data>
+		</dict>
+		<key>Resources/latenight@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dgggptjtj72pTa5oA4V151t5UoUsuvVP3ybH5H+hBMk=
+			</data>
+		</dict>
+		<key>Resources/online_learning.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xWtK/+1VZyuK8ytUmGZ03OCOBPkkaUWGEAS/BUkNtSc=
+			</data>
+		</dict>
+		<key>Resources/onlineexam.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6A2Nwkd0jWOGKpWwzjQUyO+QDfzMfxX7NQ81Ghf4Pgg=
+			</data>
+		</dict>
+		<key>Resources/onlineexam@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q8oRihUY4EVjkIf8aZOicr4me6Pqw5kTy9D9DBpfgoQ=
+			</data>
+		</dict>
+		<key>Resources/onlineexam@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y73j7AgT4P7e117oQGLOtECsDGaU8SOBq5OKdHiH6pQ=
+			</data>
+		</dict>
 		<key>Resources/rectangle27.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1847,6 +2028,27 @@
 			yMT3uJDqxybnaIgPRoLAS8aA3FixU1MVzog343r0hEs=
 			</data>
 		</dict>
+		<key>Resources/selflearning.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fCrYjnK9mx8OFZj1ClsWZbrVZ98CZfYw1lmR5t79mjY=
+			</data>
+		</dict>
+		<key>Resources/selflearning@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oTtTUAhGNwFE2B2V/pR+YZR1Ds0gNknSFZ66btBteFE=
+			</data>
+		</dict>
+		<key>Resources/selflearning@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			83OERjcFmQA13Lh18uZFjwfkp9Nwy/wZ4OqwUXIsk5g=
+			</data>
+		</dict>
 		<key>Resources/undraw_code_thinking_re_gka2.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1866,6 +2068,13 @@
 			<key>hash2</key>
 			<data>
 			xsZ4yjIe9bkfRPL++60oDfdz+Je7T//JSiUrCHmtWi8=
+			</data>
+		</dict>
+		<key>Resources/user.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5/4XetFGGkvVVNiCUCackSxPM3dnBhg/M02QMEs453U=
 			</data>
 		</dict>
 	</dict>

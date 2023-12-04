@@ -18,6 +18,7 @@ public static class MauiProgram
 				fonts.AddFont("Raleway-ExtraBold.ttf", "RalewayExtraBold");
                 fonts.AddFont("Raleway-SemiBold.ttf", "RalewaySemiBold");
 				fonts.AddFont("Raleway-Bold.ttf", "RalewayBold");
+                fonts.AddFont("Raleway-MediumItalic.ttf", "RalewayMediumItalic");
             });
 
 #if DEBUG
