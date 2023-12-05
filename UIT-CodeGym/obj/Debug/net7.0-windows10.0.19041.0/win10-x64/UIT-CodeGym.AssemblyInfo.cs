@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UIT-CodeGym")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dac22d4ee7784e5e7881ee75f00da5ce0e363d8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("UIT-CodeGym")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UIT-CodeGym")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
