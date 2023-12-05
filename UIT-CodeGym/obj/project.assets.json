@@ -1983,7 +1983,7 @@
         }
       }
     },
-    "net7.0-android33.0/android-arm": {
+    "net7.0-android33.0/maccatalyst-arm64": {
       "CommunityToolkit.Maui/6.1.0": {
         "type": "package",
         "dependencies": {
@@ -2212,6 +2212,7 @@
         }
       },
       "Microsoft.Maui.Graphics/7.0.101": {
+<<<<<<< HEAD
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -14104,6 +14105,8 @@
         }
       },
       "Microsoft.Maui.Graphics/7.0.101": {
+=======
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -16098,7 +16101,7 @@
         }
       }
     },
-    "net7.0-ios16.1/android-arm": {
+    "net7.0-ios16.1/maccatalyst-arm64": {
       "CommunityToolkit.Maui/6.1.0": {
         "type": "package",
         "dependencies": {
@@ -16314,6 +16317,7 @@
         }
       },
       "Microsoft.Maui.Graphics/7.0.101": {
+<<<<<<< HEAD
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -17760,6 +17764,8 @@
         }
       },
       "Microsoft.Maui.Graphics/7.0.101": {
+=======
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -18026,7 +18032,7 @@
         }
       }
     },
-    "net7.0-maccatalyst16.1/android-arm": {
+    "net7.0-maccatalyst16.1/maccatalyst-arm64": {
       "CommunityToolkit.Maui/6.1.0": {
         "type": "package",
         "dependencies": {
@@ -18266,6 +18272,7 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       }
+<<<<<<< HEAD
     },
     "net7.0-maccatalyst16.1/android-arm64": {
       "CommunityToolkit.Maui/6.1.0": {
@@ -22624,6 +22631,8 @@
           "buildTransitive/net6.0/_._": {}
         }
       }
+=======
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
     }
   },
   "libraries": {
@@ -23025,9 +23034,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Graphics.Win2D/1.0.5.1": {
-      "sha512": "9DVEVvyQWWz8kqhsFBAx9Zv4KRIAcmxuT7kFpK1Fgh6czSiMB+CQW0DlhZXT44Mtv41FRXG47lhEv+7a2YyiLA==",
+    "Microsoft.Maui.Graphics/7.0.101": {
+      "sha512": "2+dHQpufctgN66Y+otNnBu9o+ODYlHvc2ufQ185wB2GqhklQeeko4xFsZSj3weDif4Idg0cgAY84qU3cQ0OcTw==",
       "type": "package",
+<<<<<<< HEAD
       "path": "microsoft.graphics.win2d/1.0.5.1",
       "files": [
         ".nupkg.metadata",
@@ -23058,6 +23068,8 @@
     "Microsoft.Maui.Graphics/7.0.101": {
       "sha512": "2+dHQpufctgN66Y+otNnBu9o+ODYlHvc2ufQ185wB2GqhklQeeko4xFsZSj3weDif4Idg0cgAY84qU3cQ0OcTw==",
       "type": "package",
+=======
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
       "path": "microsoft.maui.graphics/7.0.101",
       "files": [
         ".nupkg.metadata",
@@ -23098,6 +23110,7 @@
         "microsoft.maui.graphics.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.101": {
       "sha512": "P6uBnryY3b3rpLiKj173UIf4z/dWJqntEabUiPBlJgXIcR4+u8IQg00cADNw+OsSD1yZwSwL+4pEFp5YyiOf/A==",
       "type": "package",
@@ -24023,6 +24036,8 @@
         "useSharedDesignerContext.txt"
       ]
     },
+=======
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
     "Xamarin.Android.Glide/4.13.2.2": {
       "sha512": "Z//Q0sKJ97g8wxuJ3z1kka76sSUHA7WGV7yUPGS7IwwciHrPxpEwEju5cxBAbwqYd2+Ug1ecvW3X+q5/tUh6cw==",
       "type": "package",
@@ -26030,8 +26045,11 @@
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
       "Microsoft.Maui.Graphics >= 7.0.101",
+<<<<<<< HEAD
       "Microsoft.NET.ILLink.Analyzers >= 7.0.100-1.23211.1",
       "Microsoft.NET.ILLink.Tasks >= 7.0.100-1.23211.1",
+=======
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
       "Xamarin.Android.Glide >= 4.13.2.2",
       "Xamarin.AndroidX.Browser >= 1.4.0.3",
       "Xamarin.AndroidX.Legacy.Support.V4 >= 1.0.0.15",
@@ -26051,9 +26069,13 @@
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
+<<<<<<< HEAD
       "Microsoft.Maui.Graphics >= 7.0.101",
       "Microsoft.NET.ILLink.Analyzers >= 7.0.100-1.23211.1",
       "Microsoft.NET.ILLink.Tasks >= 7.0.100-1.23211.1"
+=======
+      "Microsoft.Maui.Graphics >= 7.0.101"
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
     ],
     "net7.0-maccatalyst16.1": [
       "CommunityToolkit.Maui >= 6.1.0",
@@ -26062,6 +26084,7 @@
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
+<<<<<<< HEAD
       "Microsoft.Maui.Graphics >= 7.0.101",
       "Microsoft.NET.ILLink.Analyzers >= 7.0.100-1.23211.1",
       "Microsoft.NET.ILLink.Tasks >= 7.0.100-1.23211.1"
@@ -26081,34 +26104,48 @@
   "packageFolders": {
     "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+      "Microsoft.Maui.Graphics >= 7.0.101"
+    ]
+  },
+  "packageFolders": {
+    "/Users/minhgaa/.nuget/packages/": {}
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\UIT-CodeGym.csproj",
       "projectName": "UIT-CodeGym",
       "projectPath": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\UIT-CodeGym.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
       "outputPath": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\obj\\",
+=======
+      "projectUniqueName": "/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/UIT-CodeGym.csproj",
+      "projectName": "UIT-CodeGym",
+      "projectPath": "/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/UIT-CodeGym.csproj",
+      "packagesPath": "/Users/minhgaa/.nuget/packages/",
+      "outputPath": "/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/",
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
       "projectStyle": "PackageReference",
       "crossTargeting": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+        "/Users/minhgaa/.nuget/NuGet/NuGet.Config"
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
       ],
       "originalTargetFrameworks": [
         "net7.0-android",
         "net7.0-ios",
-        "net7.0-maccatalyst",
-        "net7.0-windows10.0.19041.0"
+        "net7.0-maccatalyst"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -26122,10 +26159,6 @@
         },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
-          "projectReferences": {}
-        },
-        "net7.0-windows10.0.19041": {
-          "targetAlias": "net7.0-windows10.0.19041.0",
           "projectReferences": {}
         }
       },
@@ -26169,6 +26202,7 @@
           "Microsoft.Maui.Graphics": {
             "target": "Package",
             "version": "[7.0.101, )",
+<<<<<<< HEAD
             "autoReferenced": true
           },
           "Microsoft.NET.ILLink.Analyzers": {
@@ -26181,6 +26215,8 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.100-1.23211.1, )",
+=======
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
             "autoReferenced": true
           },
           "Xamarin.Android.Glide": {
@@ -26313,7 +26349,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
       },
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
@@ -26348,6 +26388,7 @@
           "Microsoft.Maui.Graphics": {
             "target": "Package",
             "version": "[7.0.101, )",
+<<<<<<< HEAD
             "autoReferenced": true
           },
           "Microsoft.NET.ILLink.Analyzers": {
@@ -26360,6 +26401,8 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.100-1.23211.1, )",
+=======
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
             "autoReferenced": true
           }
         },
@@ -26425,7 +26468,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
       },
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
@@ -26460,6 +26507,7 @@
           "Microsoft.Maui.Graphics": {
             "target": "Package",
             "version": "[7.0.101, )",
+<<<<<<< HEAD
             "autoReferenced": true
           },
           "Microsoft.NET.ILLink.Analyzers": {
@@ -26472,6 +26520,8 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.100-1.23211.1, )",
+=======
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
             "autoReferenced": true
           }
         },
@@ -26538,6 +26588,7 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       },
       "net7.0-windows10.0.19041": {
@@ -26657,28 +26708,13 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
       }
     },
     "runtimes": {
-      "android-arm": {
-        "#import": []
-      },
-      "android-arm64": {
-        "#import": []
-      },
-      "android-x64": {
-        "#import": []
-      },
-      "android-x86": {
-        "#import": []
-      },
-      "iossimulator-x64": {
-        "#import": []
-      },
-      "maccatalyst-x64": {
-        "#import": []
-      },
-      "win10-x64": {
+      "maccatalyst-arm64": {
         "#import": []
       }
     }

@@ -12,9 +12,13 @@ embedassembliesintoapk=false
 androidlinkmode=none
 androidlinkskip=
 androidsdkbuildtoolsversion=32.0.0
-androidsdkpath=c:\program files (x86)\android\android-sdk\
+androidsdkpath=/users/minhgaa/library/developer/xamarin/android-sdk-macosx/
 androidndkpath=
+<<<<<<< HEAD
 javasdkpath=c:\program files (x86)\android\openjdk\jdk-17.0.8.101-hotspot\
+=======
+javasdkpath=/library/java/javavirtualmachines/microsoft-11.jdk/contents/home/
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
 androidsequencepointsmode=none
 androidnetsdkversion=33.0.95
 monosymbolarchive=false
@@ -22,7 +26,7 @@ androiduselatestplatformsdk=false
 targetframeworkversion=v7.0
 androidcreatepackageperabi=
 androidgeneratejnimarshalmethods=false
-os=windows_nt
+os=unix
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
 _nugetassetstimestamp=

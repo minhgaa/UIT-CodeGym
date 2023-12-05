@@ -10819,6 +10819,7 @@ public final class R {
     public static final int notification_tile_bg=0x7f0700d4;
     public static final int notify_panel_notification_icon_bg=0x7f0700d5;
     public static final int online_learning=0x7f0700d6;
+<<<<<<< HEAD
     public static final int puzzle=0x7f0700d7;
     public static final int question=0x7f0700d8;
     public static final int rectangle27=0x7f0700d9;
@@ -10829,6 +10830,15 @@ public final class R {
     public static final int tooltip_frame_light=0x7f0700de;
     public static final int undraw_code_thinking_re_gka2=0x7f0700df;
     public static final int user=0x7f0700e0;
+=======
+    public static final int rectangle27=0x7f0700d7;
+    public static final int splash=0x7f0700d8;
+    public static final int test_level_drawable=0x7f0700d9;
+    public static final int tooltip_frame_dark=0x7f0700da;
+    public static final int tooltip_frame_light=0x7f0700db;
+    public static final int undraw_code_thinking_re_gka2=0x7f0700dc;
+    public static final int user=0x7f0700dd;
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
   }
   public static final class id {
     public static final int ALT=0x7f080000;

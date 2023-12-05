@@ -295,6 +295,7 @@
 /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/group421.png
 /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/group421@2x.png
 /Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/group421@3x.png
+<<<<<<< HEAD
 D:\UIT\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\MauiProgram.cs
 D:\UIT\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\UIT-CodeGym.runtimeconfig.json
 D:\UIT\UIT-CodeGym\UIT-CodeGym\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\UIT-CodeGym.dll
@@ -600,3 +601,21 @@ D:\UIT\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\
 D:\UIT\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\puzzle.png
 D:\UIT\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\question.png
 D:\UIT\UIT-CodeGym\UIT-CodeGym\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\regulation.png
+=======
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/ask.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/digital_library.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/online_learning.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/user.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/selflearning.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/selflearning@2x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/selflearning@3x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/designsoftware.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/designsoftware@2x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/designsoftware@3x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/latenight.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/latenight@2x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/latenight@3x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/onlineexam.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/onlineexam@2x.png
+/Users/minhgaa/UIT-CodeGym/UIT-CodeGym/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/onlineexam@3x.png
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a

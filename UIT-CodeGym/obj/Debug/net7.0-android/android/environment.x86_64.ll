@@ -82,7 +82,11 @@ target triple = "x86_64-unknown-linux-android"
 @__app_environment_variables_n_2.4 = internal constant [15 x i8] c"MONO_LOG_LEVEL\00", align 1
 @__app_environment_variables_v_2.5 = internal constant [5 x i8] c"info\00", align 1
 @__app_environment_variables_n_3.6 = internal constant [17 x i8] c"XAMARIN_BUILD_ID\00", align 16
+<<<<<<< HEAD
 @__app_environment_variables_v_3.7 = internal constant [37 x i8] c"53503da7-249a-452e-a90f-8fc52107c5d0\00", align 16
+=======
+@__app_environment_variables_v_3.7 = internal constant [37 x i8] c"a316bdf5-f596-4051-850b-ec95d9cb85ae\00", align 16
+>>>>>>> e4b86ee6e384d2b7c77105328283bb44543c995a
 @__app_environment_variables_n_4.8 = internal constant [28 x i8] c"XA_HTTP_CLIENT_HANDLER_TYPE\00", align 16
 @__app_environment_variables_v_4.9 = internal constant [42 x i8] c"Xamarin.Android.Net.AndroidMessageHandler\00", align 16
 @__app_environment_variables_n_5.10 = internal constant [29 x i8] c"__XA_PACKAGE_NAMING_POLICY__\00", align 16
