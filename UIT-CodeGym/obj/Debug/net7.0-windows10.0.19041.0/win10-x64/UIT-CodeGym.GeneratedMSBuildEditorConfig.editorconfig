@@ -8,75 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UIT_CodeGym
-build_property.ProjectDir = D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\
+build_property.ProjectDir = D:\UIT\UIT-CodeGym\UIT-CodeGym\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/App.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/AboutPage.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/MVVM/Views/AboutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.AboutPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\AboutPage.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/ForumPage.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/MVVM/Views/ForumPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.ForumPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ForumPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ForumPage.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/IntroductionPage.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/MVVM/Views/IntroductionPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.IntroductionPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\IntroductionPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\IntroductionPage.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/MainPage.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/MVVM/Views/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\MainPage.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/PopupLoginForm.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/MVVM/Views/PopupLoginForm.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.PopupLoginForm.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\PopupLoginForm.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\PopupLoginForm.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/PracticeAdvancedPage.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/MVVM/Views/PracticeAdvancedPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.PracticeAdvancedPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\PracticeAdvancedPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\PracticeAdvancedPage.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/PracticeBeginnerPage.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/MVVM/Views/PracticeBeginnerPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.PracticeBeginnerPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\PracticeBeginnerPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\PracticeBeginnerPage.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/PracticeImmediatePage.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/MVVM/Views/PracticeImmediatePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.PracticeImmediatePage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\PracticeImmediatePage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\PracticeImmediatePage.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/MVVM/Views/TestPage.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/MVVM/Views/TestPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.MVVM.Views.TestPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\TestPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\TestPage.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/Resources/Styles/Colors.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/UIT/Nam2/LTTQ/UIT-CodeGym/UIT-CodeGym/Resources/Styles/Styles.xaml]
+[D:/UIT/UIT-CodeGym/UIT-CodeGym/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UIT_CodeGym.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

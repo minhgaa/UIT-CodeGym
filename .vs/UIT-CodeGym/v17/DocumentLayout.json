@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT\\UIT-CodeGym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\mvvm\\views\\practicebeginnerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\mvvm\\views\\practicebeginnerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\mvvm\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\mvvm\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\mvvm\\views\\introductionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\mvvm\\views\\introductionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\mvvm\\views\\aboutpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\mvvm\\views\\aboutpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\mvvm\\views\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\mvvm\\views\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\mvvm\\views\\popuploginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\mvvm\\views\\popuploginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\mvvm\\views\\popuploginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\mvvm\\views\\popuploginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\mvvm\\views\\practiceadvancedpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\mvvm\\views\\practiceadvancedpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|d:\\uit\\uit-codegym\\uit-codegym\\mvvm\\views\\forumpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E02216F0-4039-449A-A89A-41D4E5A161D1}|UIT-CodeGym\\UIT-CodeGym.csproj|solutionrelative:uit-codegym\\mvvm\\views\\forumpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticeBeginnerPage.xaml",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\PracticeBeginnerPage.xaml",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\MVVM\\Views\\PracticeBeginnerPage.xaml",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\PracticeBeginnerPage.xaml",
+              "RelativeToolTip": "UIT-CodeGym\\MVVM\\Views\\PracticeBeginnerPage.xaml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-30T05:36:20.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\MVVM\\Views\\AboutPage.xaml",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "UIT-CodeGym\\MVVM\\Views\\AboutPage.xaml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwEsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-30T05:31:09.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\MVVM\\Views\\AboutPage.xaml.cs",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\AboutPage.xaml.cs",
+              "RelativeToolTip": "UIT-CodeGym\\MVVM\\Views\\AboutPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T05:35:12.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntroductionPage.xaml",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\IntroductionPage.xaml",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\MVVM\\Views\\IntroductionPage.xaml",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\IntroductionPage.xaml",
+              "RelativeToolTip": "UIT-CodeGym\\MVVM\\Views\\IntroductionPage.xaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-30T05:31:09.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestPage.xaml",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\TestPage.xaml",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\MVVM\\Views\\TestPage.xaml",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\TestPage.xaml",
+              "RelativeToolTip": "UIT-CodeGym\\MVVM\\Views\\TestPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-30T05:31:09.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\App.xaml",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\App.xaml",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\App.xaml",
+              "RelativeToolTip": "UIT-CodeGym\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-30T05:31:09.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PopupLoginForm.xaml",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\PopupLoginForm.xaml",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\MVVM\\Views\\PopupLoginForm.xaml",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\PopupLoginForm.xaml",
+              "RelativeToolTip": "UIT-CodeGym\\MVVM\\Views\\PopupLoginForm.xaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-30T05:31:09.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\App.xaml.cs",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\App.xaml.cs",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\App.xaml.cs",
+              "RelativeToolTip": "UIT-CodeGym\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T05:31:09.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ForumPage.xaml",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\ForumPage.xaml",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\MVVM\\Views\\ForumPage.xaml",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\ForumPage.xaml",
+              "RelativeToolTip": "UIT-CodeGym\\MVVM\\Views\\ForumPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-30T05:31:09.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PracticeAdvancedPage.xaml",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\PracticeAdvancedPage.xaml",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\MVVM\\Views\\PracticeAdvancedPage.xaml",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\PracticeAdvancedPage.xaml",
+              "RelativeToolTip": "UIT-CodeGym\\MVVM\\Views\\PracticeAdvancedPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-30T05:31:09.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PopupLoginForm.xaml.cs",
+              "DocumentMoniker": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\PopupLoginForm.xaml.cs",
+              "RelativeDocumentMoniker": "UIT-CodeGym\\MVVM\\Views\\PopupLoginForm.xaml.cs",
+              "ToolTip": "D:\\UIT\\UIT-CodeGym\\UIT-CodeGym\\MVVM\\Views\\PopupLoginForm.xaml.cs",
+              "RelativeToolTip": "UIT-CodeGym\\MVVM\\Views\\PopupLoginForm.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T05:31:09.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

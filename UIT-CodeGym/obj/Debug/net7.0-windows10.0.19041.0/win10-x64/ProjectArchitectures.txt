@@ -1,1 +1,1 @@
-D:\UIT\Nam2\LTTQ\UIT-CodeGym\UIT-CodeGym\UIT-CodeGym.csproj;x64
+D:\UIT\UIT-CodeGym\UIT-CodeGym\UIT-CodeGym.csproj;x64
